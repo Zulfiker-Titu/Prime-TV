@@ -268,7 +268,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,Live Football
 http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 #EXTINF:-1,Sony Ten 1
-http://103.81.104.222/live/sony-ten-01/index.m3u8
+http://103.121.36.238:8081/live/ten1hd/playlist.m3u8
 #EXTINF:-1,Sony Ten 2
 http://103.121.36.238:8081/live/ten2hd/playlist.m3u8
 #EXTINF:-1,Sony Ten 3
@@ -297,8 +297,6 @@ http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1,Bein Sports 1
 https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
-#EXTINF:-1,Real Madrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1,ESPN
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,RTSH Sport
